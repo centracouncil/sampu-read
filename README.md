@@ -50,7 +50,7 @@ Excel dashboarding, data summarization, and business insight skills.
 ---
 
 ## 📁 Files in This Repository
-- [Sales Dataset](012 AfriMart_KollyBright_Sales_Dataset.xlsx)  
+- [Sales Dataset](012_AfriMart_KollyBright_Sales_Dataset.xlsx)  
 - [Dashboard Screenshot](AfriMart_KollyBright_Sales_Dashboard_in_Excel_Screenshot.jpg)  
 - [Company Logo](logo_afrimart-logo.png)  
 - README.md  
